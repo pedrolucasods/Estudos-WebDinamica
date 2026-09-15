@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(55, 52, 52);
+    color: #fff;
+}
+
+button{
+    cursor: pointer;
+    width: 20px;
+    height: 20px;
+}
+
+.container{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
